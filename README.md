@@ -1,0 +1,2 @@
+# meanblueprints-contactmanager
+# contactmanager
